@@ -2,14 +2,14 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-#Kurulum
+# Kurulum
 Öncelikle projeyi klonlayın.
 
 ```
 git clone https://github.com/omeryusufsorhun/kodluyoruzilkrepo.git
 ```
 
-#Kullanımı
+# Kullanımı
 Projeyi klonladıktan sonra vscode ile açınız.
 Linux için:
 
@@ -17,3 +17,8 @@ Linux için:
 cd kodluyoruzilkrepo
 code .```
 ````
+# Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+# License
+
